@@ -12,6 +12,14 @@ I created **MetaObjects** in 2001 and used it quietly for two decades as the met
 - **[Party Lore](https://partylore.com)** — an AI Game Master for multiplayer tabletop RPGs, in Discord.
 - **[FeltBots](https://feltbots.com)** — an AI poker arena where frontier models compete on a 20-year battle-tested engine.
 
+## Open-source agent tools
+
+- **[hass-axi](https://github.com/dmealing/hass-axi)** — Home Assistant CLI for LLM agents: entities, areas, devices, service calls, sensors, energy statistics and history · [PyPI](https://pypi.org/project/hass-axi/)
+- **[plex-axi](https://github.com/dmealing/plex-axi)** — Plex CLI for LLM agents: structured music search, playlists and diagnosis · [PyPI](https://pypi.org/project/plex-axi/)
+- **[axi-toolkit](https://github.com/dmealing/axi-toolkit)** — the shared Python library behind both: TOON encoding, error/recovery contract, redaction, environment configuration
+- **[dougs-ai-tools](https://github.com/dmealing/dougs-ai-tools)** — Claude Code plugins: session handoff and pickup, context-window nudge, cross-model second opinion
+- **[small-model-skills](https://github.com/dmealing/small-model-skills)** — Claude Code skills and shell tools for small local LLMs (Ollama, 7-30B), for offline diagnostics and development
+
 ## Writing
 
 I write about AI-first architecture and metadata-driven development at **[dougmealing.com](https://dougmealing.com)**.
